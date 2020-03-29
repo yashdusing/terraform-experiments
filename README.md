@@ -1,4 +1,4 @@
-### Terraform experimentations
+# Terraform experimentations
 
 Experimentating on bootstrapping AWS resources using Terraform.
 
